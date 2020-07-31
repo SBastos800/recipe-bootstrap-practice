@@ -1,0 +1,7 @@
+ol {
+    font-weight:bolder;
+  }
+
+  ol li span {
+    font-weight: normal;
+  }
