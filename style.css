@@ -1,3 +1,9 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 ol {
     font-weight:bolder;
   }
@@ -5,3 +11,13 @@ ol {
   ol li span {
     font-weight: normal;
   }
+
+
+.fab:hover {
+  transition: 0.5s;
+  box-shadow: 10px 10px 10px rgba(0,0,0, 0.5);
+}
+
+
+
+
